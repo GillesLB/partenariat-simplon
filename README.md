@@ -3,15 +3,16 @@
 
 ### Description :
 
-...
+Plugin en php à insérer, pour ajouter un texte
 
 ### Installation :
 
-...
+Installation par Wordpress (extension)
 
 ### Utilisation :
 
-...
+Ajout du texte du partenariat avec simplon
+Appel par [simplon]
 
 ### Ressources :
 #### Déclaration du plugin :
